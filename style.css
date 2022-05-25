@@ -9,7 +9,7 @@ li, a, button{
     font-size: 16px;
     color: white;
     text-decoration: none;
-    flex-wrap: nowrap;
+    
 }
 
 header {
@@ -17,12 +17,12 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    flex-wrap: nowrap;
+    
 }
 .nav_links li{
     display: inline-block;
     padding: 50px;
-    flex-wrap: nowrap;
+    
 }
 
 .nav_links li a{
@@ -33,7 +33,7 @@ header {
 }
 .nav_links {
     list-style:decimal-leading-zero;
-    flex-wrap: nowrap;
+    
 }
 button {
     background-color: rgba(red, green, blue, alpha);
@@ -41,7 +41,7 @@ button {
     transition: all 0.3 ease 0s;
     color: black;
     border-color: blue;
-    flex-wrap: wrap;
+    
     
 }
 button:hover{
